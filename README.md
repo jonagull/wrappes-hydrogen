@@ -2,6 +2,8 @@
 
 ##### Tech used:
   - React
+  - Tailwind CSS
+  - Vite
   - Hydrogen
   - Deployed with Oxygen
 
